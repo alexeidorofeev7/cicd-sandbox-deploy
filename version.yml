@@ -2,4 +2,4 @@
 # В реальном проекте здесь был бы Kubernetes-манифест Deployment'а, и поле image
 # обновлялось бы при каждом деплое. Здесь — упрощённый макет.
 
-image: ghcr.io/alexeidorofeev7/cicd-sandbox:placeholder
+image: ghcr.io/alexeidorofeev7/cicd-sandbox:main-5
